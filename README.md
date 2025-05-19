@@ -1,7 +1,3 @@
-Here's a professional `README.md` file for your **BlogBreeze** project:
-
----
-
 # 🌬️ BlogBreeze
 
 **A Modern Blogging Platform**
